@@ -1,13 +1,13 @@
-# ptrident
-adds Poseidon's trident to the game
+# ptrident \n
+adds Poseidon's trident to the game \n
 
-Recipie:
-
-XOX
-O!O
- / 
+Recipie: \n
+\n
+XOX \n
+O!O \n
+ /  \n
  
- X is lightning rod
- O is Diamonds
- ! is Heart of the sea
+ X is lightning rod \n
+ O is Diamonds \n
+ ! is Heart of the sea \n
  / is a Lead
